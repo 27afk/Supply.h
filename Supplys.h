@@ -2,7 +2,6 @@
 
 // supply.h, the simple and easy to use library
 // Version: 0.0.2
-// next version release date: 11/13/2020 - 11/21/2020
 /* Showcase code for this library
 
 //disco function sample
