@@ -39,7 +39,7 @@ void _Vprintf( int i, char x, int y, char x_2[20]) {
 		cout << x_2 << endl;
 	}
 }
-class Superb{
+class Unnessecary_Objects{
 public:
 	bool determiner(char Enter) { 
 		cin >> Enter;
